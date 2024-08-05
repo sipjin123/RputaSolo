@@ -1,0 +1,48 @@
+Content/__ExternalObjects__/
+Content/__ExternalActors__/
+Content/Imports/
+Content/ImportsModified/CharacterImports/
+Content/ImportsModified/EnvironmentImports/
+Content/ImportsModified/PropsImports/
+Content/Characters/
+Content/LevelPrototyping/
+Content/ThirdPerson/
+Content/Megascans/
+Content/MSPresets/
+
+Build
+Binaries/
+Platforms/
+Intermediate/
+Saved/
+
+Source/Motionbuilder/
+Source/FBX/
+Source/Maya/
+
+Source/SKMannequin_T_Pose/
+Source/SKMannequin_A_Pose/
+Source/SK_Mannequin_T_Pose_README.txt
+Source/SK_Mannequin_A_Pose_README.txt
+Source/UE4_MocapOnline_Tech_Notes.txt
+
+# JetBrains Rider Generated Files #
+# Cache Directory
+.idea
+
+# Solution and Project Files
+*.sln
+*.csproj
+*.sln.DotSettings
+*.sln.DotSettings.user
+
+# Visual Studio solutions
+/*.sln
+/*.sdf
+/*.opensdf
+/*.suo
+.vs/
+Content/StarterContent/
+Extra/GermanShepherd_M_CATAnimRig_v1.0.max
+Extra/GermanShepherd_M_MaxAnimRig_v1.0.max
+Extra/GermanShepherd_M_Maya_AnimRig_v1.0.mb
