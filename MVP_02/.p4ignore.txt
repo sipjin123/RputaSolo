@@ -1,0 +1,5 @@
+# Ignore all Intermediate and Saved directories
+*/Intermediate/*
+*/Saved/*
+*/DerivedDataCache/*
+*/Build/*
